@@ -1,0 +1,25 @@
+git 기본 사용법
+
+1. Local repository를 생성
+	# git init
+
+2. git이 버전관리 대상 파일들의 상태 확인
+	# git status
+
+3. 버전 관리 할 파일들을 추가
+	# git add 파일명
+
+4. commit 메세지를 작성
+	# git commit -m "메세지 내용"
+
+만약 최초 사용자 등록이 안되있으면
+	# git config --global user.email "zsx29@naver.com"
+	# git config --global user.name "zsx29"
+
+입력 후 사용자 등록 해줘야 commit이 작동됨.
+
+5. remote repositoty를 등록(최초 한번만 등록)
+	# git remote add origin "remote repository 주소"
+	
+6. commit한 내용을 remote repository에 push(업로드)
+	# git push origin master
