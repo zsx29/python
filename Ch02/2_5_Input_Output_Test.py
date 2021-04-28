@@ -4,7 +4,7 @@
 내용 : 파이썬 표준입출력 실급 교재 p48
 """
 
-#input Output Test = IOTest
+# input Output Test = IOTest
 
 # 파이썬 표준 출력
 print("hello", end="!")

@@ -1,6 +1,6 @@
 # 문자열 유형
 
-oneLine  = "this is one line string"
+oneLine = "this is one line string"
 print(oneLine)
 
 multiLine = """this is

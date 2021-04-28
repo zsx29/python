@@ -13,9 +13,9 @@ add2 = a + b
 print(add2)
 
 # 논리형 --> 정수
-print(int(True)) #1
-print(int(False)) #0
-
+print(int(True))  # 1
+print(int(False))  # 0
+>
 # 문자형 --> 정수
-st = "10"
-print(int(st)**2) #제곱 연산
+st = "10"P
+print(int(st) ** 2)  # 제곱 연산

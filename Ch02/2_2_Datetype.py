@@ -9,7 +9,6 @@ var1 = 1
 var2 = 2
 var3 = -3
 
-
 print("var:", var1)
 print("var:", var2)
 print("var:", var3)
@@ -47,15 +46,13 @@ var9 = 'Apple'
 var10 = "apple"
 var11 = "사과"
 
-print("var8:",var8)
-print("var9:",var9)
-print("var10:",var10)
-print("var11:",var11)
+print("var8:", var8)
+print("var9:", var9)
+print("var10:", var10)
+print("var11:", var11)
 print("var8 type", type(var8))
 print("var9 type", type(var9))
 print("var10 type", type(var10))
 print("var11 type", type(var11))
 
 # str : 문자열
-
-
