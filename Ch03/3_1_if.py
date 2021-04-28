@@ -18,7 +18,7 @@ if num1 > 0:
         print("num1은 0보다 크고, num2 는 1보다 크다.")
 
 if num1 > 0 and num2 > 1:
-        print("num1은 0보다 크고, num2 는 1보다 크다.")
+    print("num1은 0보다 크고, num2 는 1보다 크다.")
 
 # if else #
 
@@ -64,15 +64,3 @@ elif score >= 60 and score < 70:
     print("D 입니다.")
 else:
     print("F 입니다.")
-
-
-
-
-
-
-
-
-
-
-
-
