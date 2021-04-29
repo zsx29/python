@@ -1,0 +1,16 @@
+# 날짜, 시간을 구하는 기본적인 방법
+t2 = time.ctime()
+print("날짜, 시간은 :", t2)
+
+now = time.localtime(time.time())
+year = time.strftime("%Y", now)
+month = time.strftime("%m", now)
+date = time.strftime("%d", now)
+hour = time.strftime("%H", now)
+min = time.strftime("%M", now)
+sec = time.strftime("%S", now)
+
+print("---- 현재 시간 ----")
+print("%s년 %s월 %s일" % (year, month, date))
+print("%s시 %s분 %s초" % (hour, min, sec))
+
