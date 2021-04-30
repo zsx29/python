@@ -3,7 +3,7 @@
 이름 : 박재형
 내용 : 파이썬 Class(객체지향) 실습 교재 p148
 """
-
+# (1) 불러오기
 from Ch06.Sub01.Account import Account  # 출처를 달아준다.
 from Ch06.Sub01.Computer import Computer
 

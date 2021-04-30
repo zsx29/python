@@ -26,3 +26,10 @@ print(person["age"])
 print("age" in person)
 
 # (2) 요소 반복
+print("---------요소 반복--------------")
+for key in person.keys():
+    print(key)
+for v in person.values():
+    print(v)
+for i in person.items():
+    print(i)
