@@ -23,3 +23,7 @@ git 기본 사용법
 	
 6. commit한 내용을 remote repository에 push(업로드)
 	# git push origin master
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://github.com/zsx29/chhak
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
