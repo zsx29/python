@@ -20,4 +20,4 @@ n3 = int(input("세 번째 숫자 입력 :"))
 
 
 mean = (n1 + n2 + n3) / 3
-print(n1, n2, n3, "의 평균은", mean, "입니다.")1
+print(n1, n2, n3, "의 평균은", mean, "입니다.")
