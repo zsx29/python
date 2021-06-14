@@ -3,7 +3,7 @@
 이름 : 박재형
 내용 : 파이썬 CRUD 프로그램 연습문제
     C : create -> insert
-    R : read -> select
+    R : read   -> select
     U : update -> update
     D : delete -> delete
 """
